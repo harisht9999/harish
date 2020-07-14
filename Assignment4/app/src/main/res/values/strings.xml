@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string-array name="harish">
+        <item>Select course</item>
+        <item>CSE</item>
+        <item>MEC</item>
+        <item>CIVIL</item>
+    </string-array>
+</resources>

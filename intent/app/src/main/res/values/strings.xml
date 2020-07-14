@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string-array name="harish">
+        <item>Cse</item>
+        <item>Mech</item>
+        <item>Civil</item>
+    </string-array>
+</resources>
